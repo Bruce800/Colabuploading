@@ -1,0 +1,1 @@
+https://github.com/Bruce800/ColabuploadingOn branch main nothing to commit, working tree cleanhttps://github.com/Bruce800/Colabuploadinggit remote add origin https://github.git push -u origin mainhttps://github.com/Bruce800/Colabuploading
